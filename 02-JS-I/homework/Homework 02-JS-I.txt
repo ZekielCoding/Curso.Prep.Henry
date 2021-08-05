@@ -1,0 +1,41 @@
+• Variable:
+
+Utilizamos una variable, para asignarle un valor caracteristico a una palabra o número, para que cumpla una funcion
+en específico mas adelante en el código.
+
+Su sintaxis puede ser de tipo:
+
+-var  
+-let
+-const
+-console.log
+
+• String: 
+ 
+Es un bloque únicamente de texto y siempre va entre comillas.
+
+• Funciones:
+
+El programa tiene un orden gracias a la función, como su nombre indica le da un sentido, un uso en concreto al código.
+Comunmente llevan nombres descriptivos, seguido de parentesis y corchetes. Estos ultimos son vitales para su correcto uso.
+Dentro de los corchetes es donde escribiremos lo que realizará la función.
+
+• Funcion "Return"
+
+La declaración 'return'se utiliza para que el código devuelva un valor visible fuera del mismo.
+El resto del código es inaccesible.
+
+• Argumentos:
+
+Podriamos llamar a los argumentos a las distintas formas de 'argumentar' un código. 
+Utilizando variables similares, que realicen lo mismo. Podemos usar multiples argumentos y se separan con ",".
+
+• Declaraciones IF:
+
+Una declaracion de tipo "if" se utiliza para comparar valores, luego de la comparación que debe cumplir.
+Puede arrojar dos parámetros: "TRUE" o "FALSE". Si se cumplen, o no, dichas condiciones.
+
+• Valores booleanos:
+
+Denominamos a un valor booleano como un "1" o "0". "Encendido o "Apagado"
+Este concepto proveniente de Boole se refiere al código binario.
